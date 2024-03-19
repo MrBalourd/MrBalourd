@@ -8,7 +8,7 @@ I'm a developer with a strong interest in IT. I love code in my free time. Wheth
 
 ## What I Do
 
-- 🔭 I'm currently working on Vinted API
+- 🔭 I'm currently working on ...
 - 🌱 I'm currently learning AI
 - 💬 Ask me about NodeJS
 - 😄 Pronouns: He
